@@ -1,0 +1,14 @@
+{
+  "project_id": "d201ab1f",
+  "project_name": "simple_hello_world_program_for_app_d201ab1f",
+  "task_description": "Simple hello world program for testing auto-upload",
+  "conversation_id": "auto_upload_test_1759798787",
+  "created_at": "2025-10-07T11:59:49.252261",
+  "files": {
+    "src": [],
+    "tests": [],
+    "docs": []
+  },
+  "github_repo": null,
+  "status": "active"
+}
